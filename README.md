@@ -2,10 +2,6 @@
 
 **You can know more about me here:**
 
-<a href="https://www.linkedin.com/in/kaio-malek/">
-  <img align="left" alt="Kaio Malek" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 </br>
 
 ## ℹ️ ABOUT ME
